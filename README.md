@@ -16,6 +16,7 @@ After your user submits their credentials for login (data collection is complete
 * update device trust referenced by session ID 
 * update device trust referenced by device ID 
 * update behavior data
+* update behavior data2
 
 Each response is returned in JSON format.
 This information enables you to make business decisions on how your site should to proceed with a user's login.
